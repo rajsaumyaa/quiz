@@ -1,8 +1,6 @@
-
-
 # Quiz Platform
 
-This Quiz Platform is designed to provide users with a simple, interactive way to test their knowledge on various topics. Developed in Java, this application includes a set of predefined questions and keeps track of users' scores.
+This Quiz Platform is designed to provide users with a simple, interactive way to test their knowledge on various topics. Developed in Java, this platform includes a set of predefined questions and keeps track of users' scores.
 
 ## Features
 
