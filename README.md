@@ -40,8 +40,4 @@ This Quiz Platform is designed to provide users with a simple, interactive way t
 3. Answer each question by selecting an option and proceed.
 4. At the end of the quiz, review your score and correct answers.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with any improvements or bug fixes.
-
 
